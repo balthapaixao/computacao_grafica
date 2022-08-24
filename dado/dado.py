@@ -7,7 +7,7 @@ from OpenGL.GLU import *
 
 
 textures_files = {
-    'dice': 'dado.png',
+    'dice': '/home/balthapaixao/Desktop/Cefet_ead/CG/computacao_grafica/dado/dado2.png'
 }
 
 tx = Texture(textures_files, 'Dado', 1000, 800)
