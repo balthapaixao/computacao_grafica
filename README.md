@@ -10,16 +10,16 @@ python dado.py
 ![alt text](https://github.com/balthapaixao/computacao_grafica/blob/main/dado/dado.png)
 
 ### 2) Textura – Esfera – “Planeta”
-python dado.py
+python planeta.py
 
 ![alt text](https://github.com/balthapaixao/computacao_grafica/blob/main/planeta/planeta.png)
 
 ### 3) Funções implícitas - Paraboloide circular e hiperbólico
-python dado.py
+python paraboloide.py
 
 ![alt text](https://github.com/balthapaixao/computacao_grafica/blob/main/paraboloide/paraboloide.png)
 
 ### 4) Iluminação (Prismas e Pirâmides)
-python dado.py
+python prisma.py
 
 ![alt text](https://github.com/balthapaixao/computacao_grafica/blob/main/iluminacao/prisma-iluminacao.png)
