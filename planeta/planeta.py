@@ -39,7 +39,7 @@ def main():
     glTranslatef(0.0, 0.0, -5)    # sets initial zoom so we can see globe
     lastPosX = 0
     lastPosY = 0
-    texture = read_texture('/home/balthapaixao/Desktop/Cefet_ead/CG/computacao_grafica/planeta/world.jpg')
+    texture = read_texture("./world.jpg" )#'/home/balthapaixao/Desktop/Cefet_ead/CG/computacao_grafica/planeta/world.jpg')
 
     while True:
         for event in pygame.event.get():    # user avtivities are called events
